@@ -1,0 +1,13 @@
+public class Television {
+	
+	private String manufacturer, brand;
+	private int Screen_size, channel, volume, size;
+    private  boolean powerOn }
+
+  
+   public void Televition (String brand ,  int size) {
+	   
+   }
+	
+	  
+
